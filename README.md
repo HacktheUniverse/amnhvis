@@ -1,4 +1,4 @@
-StarDate is an interactive snapshot of US history in the last 35 years.  The distance of each star from the sun is measured in light years.  By calculating the distance in time, we have correlated events in history with the 100 closest stars to the sun.  It's like being in outerspace and receiving a newspaper years later and looking at history in the present.
+StarDate is an interactive snapshot of US history in the last 35 years.  The distance of each star from the sun is measured in light years.  By calculating the distance in time, we have correlated events in history with the 100 closest stars to the sun.  It's like being in outerspace and receiving the latest edition of the New York Times and looking at history in the present.
 
 We obtained stellar data from the Digital Universe and sourced our headlines from the New York Times API.  Digital Visualizations were drawn using d3.js.
 
