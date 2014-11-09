@@ -5,8 +5,8 @@ nytimes_key = "SECRET"
 
 outfile = open("headlines.csv", "w")
 
-for year in range(1982,2013):
-    for month in range(1,12):
+for year in range(1982,2015:
+    for month in range(1,13):
         
         start_date = "%d%02d%02d" % (year,month,1)
         end_date = "%d%02d%02d" % (year,month,2)

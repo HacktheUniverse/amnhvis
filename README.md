@@ -11,5 +11,8 @@ Bridget Keyes
 Will Liu
 Charlye Tran
 
-Project Link:
+Updated Link:
+http://www.bkeyes.com/hacktheuniverse/index.html
+
+Offical Link:
 http://williamqliu.github.io/
