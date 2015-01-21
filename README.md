@@ -14,8 +14,5 @@ Charlye Tran
 Updated Link:
 http://www.bkeyes.com/hacktheuniverse/index.html
 
-Offical Link:
-http://williamqliu.github.io/
-
 Demo from Hack the Universe presentations:
 http://youtu.be/EEZ-fD1n110
